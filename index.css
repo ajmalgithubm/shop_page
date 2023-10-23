@@ -305,3 +305,8 @@ button:hover {
 /*  banner section end here */
 
 
+/* cloth style start here */
+#cloth .product img {
+    height: 60%;
+}
+/* cloth style end here */
