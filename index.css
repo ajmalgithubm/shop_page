@@ -310,3 +310,10 @@ button:hover {
     height: 60%;
 }
 /* cloth style end here */
+
+
+/* Watch stle start */
+#watch .product img{
+    height: 50%;
+}
+/* watch style end */
